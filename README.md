@@ -1,2 +1,2 @@
 # Hi eweryone! 
-(/images/silver.jpg)
+(images/silver.jpg)
